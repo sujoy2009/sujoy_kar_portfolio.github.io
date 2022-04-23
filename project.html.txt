@@ -1,0 +1,273 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Sujoy kar's portfullio'</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+		
+
+				<!-- Header -->
+					<header id="header">
+						
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">All projects</a></li>
+							<li><a href="generic.html">Skills</a></li>
+							
+						</ul>
+						<ul class="icons">
+							
+							<li><a href="https://web.facebook.com/sujoy.kar.3511" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.linkedin.com/in/sujoy-kar-2552141b3" class="icon brands fa-instagram"><span class="label">Linked-in</span></a></li>
+							<li><a href="https://github.com/sujoy2009" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+						<article class="post featured">
+							<header class="major">
+
+								<h1>A social media app like Instagram </h1>
+							</header>
+							<a href="#" class="image fit"><img src="images/insta.jpg" alt="" /></a>
+							
+							Used TOOL: Flutter <br />
+							Used database: Firebase <br />
+							Features:<br />
+							<br />
+							1.Gmail sign in<br />
+                            2.Create new post
+							3.Edit profile
+							3.comment and react post
+							4.Notification
+						   
+
+							<ul class="actions special">
+								<li><a href="https://github.com/sujoy2009/group_chat__flutter" class="button">Github Link</a></li>
+							</ul>
+						</article>
+
+						<!-- Posts -->
+						<section class="posts">
+							<article>
+								<header>
+
+									<h1>Gmail creating Robot with custom keyboard</h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/robot.jpg" alt="" /></a>
+								This is a Robotic android app for creating unlimited Gmaill automatically.<br />
+								Used TOOL: Android (Java)<br />
+								Used Database: Sqlite <br />
+								Features:<br />
+								1.This app is has  a custom keyboard to provide random name ,passward and gmail <br />
+								2.SQLite Database is used to store all created Gmail and passward<br />
+								3.By using super user permission this app can click,swipe anywhere on screen ,open other device  app by ADB command
+
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/Gmail_creating_keyboard" class="button">Github Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>A simple chating app </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/chat.jpg" alt="" /></a>
+								This is a chat app where only in a single group many users can chat together.<br />
+								Used TOOL: Flutter <br />
+								Used database: Firebase <br />
+								Features:<br />
+								1.This app is has  a group to chat <br />
+								2.Gmail sign in and sign up<br />
+
+								3.Annimation
+
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/group_chat__flutter" class="button">Github Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>Question solving and Tution Finder app </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/students.jpg" alt="" /></a>
+
+								Used TOOL: Android(JAVA) <br />
+								Used database: Firebase <br />
+								Features:<br />
+								1.Students can ask question <br />
+								2.Expert can submit solution<br />
+								3.Tutor can post there details<br />
+								4.Students can find Tutor from specific Region
+
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/question_solving_system_AND_tuition_app" class="button">Github Link</a></li>
+									<li><a href="https://play.google.com/store/apps/details?id=com.education.problemsolve" class="button">Playstore Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>Doctors and Blood Dooner Finder app </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/doctors.jpg" alt="" /></a>
+
+								Used TOOL: Android(JAVA) <br />
+								Used database: Firebase <br />
+								Features:<br />
+								1.Doctors can register using BMDC number <br />
+								2.People can search doctor of specific region and catagory<br />
+								3.Blood dooners can post there details<br />
+								4.People can search blood dooner of specific region and blood group
+
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/Doctors_and_blood_donor_App" class="button">Github Link</a></li>
+									<li><a href="https://play.google.com/store/apps/details?id=com.doctors.login" class="button">Playstore Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>A BMI Calculator app </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/bmi.jpg" alt="" /></a>
+
+								Used TOOL: Flutter <br />
+
+								Features:<br />
+								1.This app is can calculate bmi <br />
+								2.Amazing UI <br />
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/bmi_calculator_flutter" class="button">Github Link</a></li>
+								</ul>
+							</article>
+
+							<article>
+								<header>
+
+									<h1>Weather prediction app using API   </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/weather.jpg" alt="" /></a>
+
+								Used TOOL: Flutter <br />
+
+								Features:<br />
+								1.This app is can provide current location <br />
+								2.According to latittude and longitude temperature and weather is predicted <br />
+								3.A ready made free API is intrigated for all prediction
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/weather_app-Flutter" class="button">Github Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>Land price detection app of Bangladesh Using ML   </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/land_price.jpg" alt="" /></a>
+
+								Used TOOL: Android And  Chaquapy <br />
+
+								Features:<br />
+								1.This app can predict land price <br />
+								2.Chaquapy is used for intigrating python in Android <br />
+								3.Regression model is uded for price detection
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/BD_Land_price_estimator_app_using_ML" class="button">Github Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>E-commerce app UI design   </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/e_com.jpg" alt="" /></a>
+
+								Used TOOL:Flutter <br />
+								used Database:Firebase<br />
+
+								Features:<br />
+								1.Gmail sign in sign up <br />
+								2.Admin panel dashboard<br />
+								3.User panel UI
+
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/e_commerce_flutter" class="button">Github Link</a></li>
+								</ul>
+							</article>
+							<article>
+								<header>
+
+									<h1>Bangladeshi Newspaper app  </h1>
+								</header>
+								<a href="#" class="image fit"><img src="images/news.jpg" alt="" /></a>
+
+								Used TOOL:Flutter <br />
+								
+
+								Features:<br />
+								1.ALL bangla newspaper <br />
+								2.ALL English newspaper<br />
+								
+
+								<ul class="actions special">
+									<li><a href="https://github.com/sujoy2009/Bd_newspapers_app" class="button">Github Link</a></li>
+								</ul>
+							</article>
+						</section>
+
+						<!-- Footer -->
+							<footer>
+								<section>
+									<h3>Social</h3>
+									<ul class="icons alt">
+
+										<li><a href="https://web.facebook.com/sujoy.kar.3511" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.linkedin.com/in/sujoy-kar-2552141b3" class="icon brands alt fa-instagram"><span class="label">Lnkedin</span></a></li>
+										<li><a href="https://github.com/sujoy2009" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+									</ul>
+								</section>
+							</footer>
+
+					</div>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						Phone Number: 01711308827<br />
+						Gmail: sujoykar2009@gmail.com
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
